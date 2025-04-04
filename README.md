@@ -1,5 +1,5 @@
 # websocket-fastapi-tutorial
-fastAPIのWebSocketチュートリアル<br>
+[fastAPIのWebSocketチュートリアル](https://fastapi.tiangolo.com/advanced/websockets/)<br>
 python 3.10以上使用
 
 # 使用方法
