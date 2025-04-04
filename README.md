@@ -42,7 +42,7 @@ pip install "fastapi[standard]"
 ```
 pip install websockets
 ```
-## main.py起動
+## main.py起動（外部アクセス許可）
 ```
-fastapi dev main.py
+fastapi dev main.py --host 0.0.0.0 --port 8000
 ```
